@@ -66,18 +66,7 @@ class _MainScreenState extends State<MainScreen> {
       body: Column(
         mainAxisAlignment: MainAxisAlignment.spaceEvenly,
         children: [
-          // SizedBox(
-          //   height: 80,
-          // ),
-          // Center(
-          //     child: Text(
-          //   "Login",
-          //   style: TextStyle(
-          //     fontSize: 30,
-          //     fontWeight: FontWeight.bold,
-          //   ),
-          // )),
-          SizedBox(
+                   SizedBox(
             height: 50,
           ),
           Center(
